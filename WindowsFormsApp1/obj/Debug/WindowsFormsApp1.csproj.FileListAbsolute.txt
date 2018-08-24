@@ -1,0 +1,190 @@
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mbenben\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Tabcontrol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Tabcontrol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Tabcontrol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X2 By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X3 Final By CFY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl X6 Final Bak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Final L2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Final L2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Final L2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Final L2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Final L3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Final L3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Final L3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Final L3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Real Final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Mordern TabControl Real Final 7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestForm.resources
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Chrome 69 Tabcontrol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Chrome 69 Tabcontrol 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Chrome_69_Tab.resources
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Chrome_69_Tab.resources
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Chrome 69 Tabcontrol 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
